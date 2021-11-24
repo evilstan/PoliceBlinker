@@ -1,0 +1,2 @@
+rootProject.name = "Police Blinker"
+include ':app'
